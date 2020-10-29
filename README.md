@@ -1,3 +1,6 @@
+# GitHub pages
+https://makoto14.github.io/employee-profile/dist/index.html
+
 # profile-project
 
 ## Project setup
