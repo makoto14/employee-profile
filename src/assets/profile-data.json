@@ -1,0 +1,65 @@
+
+    {
+        "userId": 1,
+        "userName": "Taro",
+        "Section": "Sales Div",
+        "Position": "Manager",
+        "Office": "NY Office",
+        "eMail": "",
+        "Details": [
+            {
+                "key": "announce",
+                "name": "Announce",
+                "content": {
+                    "lengthOfService": 10,
+                    "join": 2010,
+                    "retentionOfJobTitle": 1,
+                    "affiliationStay": 2,
+                    "history": [
+                        {
+                            "date": "Jul. 1 2020",
+                            "type": "promotion",
+                            "position": "Manager",
+                            "section": "Sales Div",
+                            "office": "NY Office"
+                        },
+                        {
+                            "date": "Jun. 1 2019",
+                            "type": "Transfer",
+                            "position": "Team Leader",
+                            "section": "Sales Div",
+                            "office": "NY Office"
+                        },
+                        {
+                            "date": "Jun. 1 2019",
+                            "type": "Transfer",
+                            "position": "Team Leader",
+                            "section": "R&D Div",
+                            "office": "NY Office"
+                        }
+                    ]
+                }
+            },
+            {
+                "key": "personalInfomation",
+                "name": "Personal Infomation",
+                "content": {
+
+                }
+            },
+            {
+                "key": "performanceInfomation",
+                "name": "Performance Infomation",
+                "content" : {
+
+                }
+            },
+            {
+                "key": "note",
+                "name": "Note",
+                "content": {
+
+                }
+            }
+        ]
+    }
