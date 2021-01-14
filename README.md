@@ -1,5 +1,5 @@
 # GitHub pages
-https://makoto14.github.io/employee-profile/dist/index.html
+https://makoto14.github.io/employee-profile/
 
 # profile-project
 
