@@ -44,21 +44,21 @@
                 "key": "personalInfomation",
                 "name": "Personal Infomation",
                 "content": {
-
+                    "birthday": "2020/12/12"
                 }
             },
             {
                 "key": "performanceInfomation",
                 "name": "Performance Infomation",
                 "content" : {
-
+                    "score": "A"
                 }
             },
             {
                 "key": "note",
                 "name": "Note",
                 "content": {
-
+                    "note": "memo"
                 }
             }
         ]
